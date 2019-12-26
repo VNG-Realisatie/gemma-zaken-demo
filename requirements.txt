@@ -70,11 +70,11 @@ uritemplate==3.0.0        # via coreapi, drf-yasg
 urllib3==1.22             # via requests
 uwsgi==2.0.15
 vng-api-common==1.0.5
-waitress==1.2.1           # via webtest
+waitress==1.4.1           # via webtest
 webob==1.8.5              # via webtest
 webtest==2.0.33           # via django-webtest
 whitenoise==4.1.2
 zope.interface==4.6.0     # via twisted
 
 # The following packages are considered to be unsafe in a requirements file:
-# setuptools==41.0.1        # via pyhamcrest, zope.interface
+# setuptools
